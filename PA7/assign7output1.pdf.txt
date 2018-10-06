@@ -1,0 +1,49 @@
+1. Coke (can)
+2. Coke (bottle)
+3. Mountain Dew (can)
+4. Water
+5. Full Throttle
+6. Quit the Program
+
+Enter your choice: 1
+The cost is: $0.75
+
+1. Coke (can)
+2. Coke (bottle)
+3. Mountain Dew (can)
+4. Water
+5. Full Throttle
+6. Quit the Program
+
+Enter your choice: 1
+The cost is: $0.75
+
+1. Coke (can)
+2. Coke (bottle)
+3. Mountain Dew (can)
+4. Water
+5. Full Throttle
+6. Quit the Program
+
+Enter your choice: 3
+The cost is: $0.75
+
+1. Coke (can)
+2. Coke (bottle)
+3. Mountain Dew (can)
+4. Water
+5. Full Throttle
+6. Quit the Program
+
+Enter your choice: 5
+The cost is: $2.00
+
+1. Coke (can)
+2. Coke (bottle)
+3. Mountain Dew (can)
+4. Water
+5. Full Throttle
+6. Quit the Program
+
+Enter your choice: 6
+Amount earned: $4.25
